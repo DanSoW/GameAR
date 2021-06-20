@@ -1,0 +1,13 @@
+{
+  "name": "game-server",
+  "version": "0.0.0",
+  "description": "GameServer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
